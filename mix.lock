@@ -1,0 +1,5 @@
+%{
+  "csv": {:hex, :csv, "2.5.0", "c47b5a5221bf2e56d6e8eb79e77884046d7fd516280dc7d9b674251e0ae46246", [:mix], [{:parallel_stream, "~> 1.0.4 or ~> 1.1.0", [hex: :parallel_stream, repo: "hexpm", optional: false]}], "hexpm", "e821f541487045c7591a1963eeb42afff0dfa99bdcdbeb3410795a2f59c77d34"},
+  "jason": {:hex, :jason, "1.4.4", "b9226785a9aa77b6857ca22832cffa5d5011a667207eb2a0ad56adb5db443b8a", [:mix], [{:decimal, "~> 1.0 or ~> 2.0", [hex: :decimal, repo: "hexpm", optional: true]}], "hexpm", "c5eb0cab91f094599f94d55bc63409236a8ec69a21a67814529e8d5f6cc90b3b"},
+  "parallel_stream": {:hex, :parallel_stream, "1.1.0", "f52f73eb344bc22de335992377413138405796e0d0ad99d995d9977ac29f1ca9", [:mix], [], "hexpm", "684fd19191aedfaf387bbabbeb8ff3c752f0220c8112eb907d797f4592d6e871"},
+}
